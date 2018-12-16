@@ -7,16 +7,9 @@ Overview
 .. list-table::
     :stub-columns: 1
 
-    * - docs
-      - |docs|
     * - tests
       - | |travis|
         | |codecov|
-    * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
-
-
 
 .. |travis| image:: https://travis-ci.org/wmeints/motorcontrol.svg?branch=master
     :alt: Travis-CI Build Status
